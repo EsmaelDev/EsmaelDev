@@ -1,22 +1,32 @@
-# Hi 👋, I'm Esmael
+# Hi 👋, I'm Esmael Gemechu
 
 ### Software Engineering Student | Full-Stack Developer | AI & Web Enthusiast
 
-I'm a Software Engineering student passionate about building **real-world software, modern web applications, AI-powered systems, and digital solutions**.
+I'm a Software Engineering student passionate about building **practical software, modern web applications, AI-powered systems, and digital solutions**.
 
-I enjoy turning ideas and real-world problems into practical, beautiful, and functional software.
+I enjoy turning ideas and real-world problems into functional, user-friendly applications while continuously improving my software engineering skills.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering student at Arba Minch University
+- 🌐 Interested in full-stack web development and modern UI design
+- 🤖 Exploring AI-powered applications, APIs, and automation
+- 🏨 Interested in hotel technology and digital service platforms
+- 📚 Learning through hands-on projects and consistent practice
 
 ---
 
 ## 🚀 What I'm Building
 
-* 🌐 Modern full-stack web applications
-* 🤖 AI-powered applications and assistants
-* 💳 Digital wallet & fintech systems
-* 🏨 Hotel and hospitality technology
-* 🛒 E-commerce platforms
-* 📱 Telegram bots and automation
-* 🎨 Modern, responsive user interfaces
+- 🌐 Modern full-stack web applications
+- 🤖 AI-powered applications and assistants
+- 💳 Digital wallet and fintech concepts
+- 🏨 Hotel and hospitality technology
+- 🛒 E-commerce platforms
+- 📱 Telegram bots and automation
+- 🎨 Modern, responsive user interfaces
 
 ---
 
@@ -32,7 +42,7 @@ I enjoy turning ideas and real-world problems into practical, beautiful, and fun
 
 **Backend**
 
-`Spring Boot` `Flask` `REST APIs`
+`Spring Boot` `Flask` `Node.js` `REST APIs`
 
 **Tools**
 
@@ -42,35 +52,39 @@ I enjoy turning ideas and real-world problems into practical, beautiful, and fun
 
 `OpenRouter` `AI APIs` `Telegram Bot API`
 
+*My technology stack is evolving as I learn, experiment, and build projects.*
+
 ---
 
 ## 📌 Featured Projects
 
-🚧 **Projects are being added to my GitHub portfolio.**
+Projects I'm developing or exploring include:
 
-Some of the projects I'm working on include:
+- 🏨 **Mekida Hotel Digital Ecosystem** — Hotel website and Telegram assistant
+- 🛒 **SmartMall AI** — AI-powered e-commerce platform concept
+- 💳 **Ethio Digital Wallet** — Fintech wallet interface concept
+- ☕ **Mubarek Coffee Exporting Company** — Professional company website
+- 🕌 **Bamrika Islamic Cloth Center** — Fashion and business website
 
-* 🏨 **mekida Hotel Digital Ecosystem** — Hotel website and Telegram assistant
-* 🛒 **SmartMall AI** — AI-powered e-commerce platform
-* 💳 **Ethio Digital Wallet** — Modern fintech wallet interface
-* ☕ **Mubarek Coffee Exporting Company** — Professional company website
-* 🕌 **Bamrika Islamic Cloth Center** — Luxury fashion website
+More project details, source code, screenshots, and documentation will be added as the projects progress.
 
 ---
 
 ## 🎯 Current Goals
 
-* Build production-quality software
-* Improve my software engineering skills
-* Create solutions to real-world problems
-* Learn modern development technologies
-* Build a strong open-source portfolio
+- Build a professional personal portfolio website
+- Practice Git and GitHub through meaningful, consistent commits
+- Improve software design, implementation, and documentation
+- Build practical solutions to real-world problems
+- Develop a strong portfolio of demonstrable projects
 
 ---
 
 ## 📫 Connect With Me
 
-I'm currently building my developer presence and will be adding my professional links soon.
+- **GitHub:** [@EsmaelDev](https://github.com/EsmaelDev)
+
+More professional links will be added as my developer portfolio grows.
 
 ---
 
